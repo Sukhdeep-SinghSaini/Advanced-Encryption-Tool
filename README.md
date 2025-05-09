@@ -14,7 +14,7 @@
 
 DESCRIPTION
 
-# 🔐 AES-256 File Encryptor (Modern GUI)
+# 🔐Advanced-Encryption-Tool
 
 A powerful, user-friendly encryption tool built in Python that leverages **AES-256 encryption** to securely encrypt and decrypt files. This application features a **modern dark mode GUI** built with `customtkinter`, making it both functional and visually appealing. With just a few clicks, you can protect sensitive documents using advanced cryptography under a clean, minimal interface.
 
